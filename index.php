@@ -12,7 +12,7 @@
     }
     $start = mktime(12, 0, 0, $miesiac, 1, $rok);
     $tablicaPierwszyDzien = getdate($start);
-    $miesiace = array("styczeńxxx", "lutyxxxx", "marzec", "kwiecień", "maj", "czerwiec", "lipiec",
+    $miesiace = array("styczeńxxx", "luty", "marzec", "kwiecień", "maj", "czerwiec", "lipiec",
         "sierpień", "wrzesień", "pażdziernik", "listopad", "grudzień");
 ?>
 <!DOCTYPE html>
